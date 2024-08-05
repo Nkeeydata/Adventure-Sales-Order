@@ -3,8 +3,9 @@
 ### This project reviews the sales trend over four years for a business starting from 2001 to 2004.
 
 ### Problem Overview : Adventure Company was experiencing some chalenges and needed to know about the below information ;
-a. What is their sales trend on a monthly basis?
-b. What platform did most of the orders came from?
+a. What is their `sales trend` on a monthly basis?
+b. What `platform` did most of the orders came from?
+c. Which `region` have the most sales?
 
 1. [An Excel file](AdventureSalesOrder1.xlsx) : This is an `excel` file that contains the `datasets` used for this analysis, and the insights drawn from it. it contains different information on each worksheet.
 
@@ -21,7 +22,7 @@ b. What platform did most of the orders came from?
 ### Recommendation : 
 
 Due to the fact that Adventure got most of their orders from the online platform, it is recommended that more security software be built to prevent cyber crime on the company's website.
-Also, due to the high sales in the month of August, more products should be made available in the month of August, while promotions should be done in the month of to increase sales due to the low sales usually recorded.
+Also, due to the high sales in the month of August, more products should be made available in the month of August, while promotions should be done in the month of January to increase sales due to the low sales usually recorded.
 
 Thanks for stopping by. 💌
 Feel free to drop your thoughts. 👪
